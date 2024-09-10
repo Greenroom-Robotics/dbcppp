@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-model
+  href="http://download.ros.org/schema/package_format2.xsd"
+  schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <name>dbccpp</name>
+  <version>1.0.0</version>
+  <description>A C/C++ DBC file parser based on `boost.spirit`.</description>
+  <maintainer email="russ.webber@greenroomrobotics.com">Russ Webber</maintainer>
+  <license>BSL</license>
+
+  <url type="website">https://github.com/Greenroom-Robotics/dbcpp</url>
+
+  <!-- <depend>asio</depend> -->
+  <!-- <depend>libboost-system-dev</depend> -->
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
