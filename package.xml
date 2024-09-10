@@ -9,7 +9,7 @@
   <maintainer email="russ.webber@greenroomrobotics.com">Russ Webber</maintainer>
   <license>BSL</license>
 
-  <url type="website">https://github.com/Greenroom-Robotics/dbcpp</url>
+  <url type="website">https://github.com/Greenroom-Robotics/dbcppp</url>
 
   <!-- <depend>asio</depend> -->
   <!-- <depend>libboost-system-dev</depend> -->
